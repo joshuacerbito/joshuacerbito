@@ -67,7 +67,7 @@ I'd like to think that my approach to development is "technology agnostic", so t
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 💻 Software and Tools
+### 💻 /uses
 
 If you're intereseted in the software and hardware I use on a daily basis, [I've created a dedicated page for that on my site](https://cerbito.com/uses).
 
