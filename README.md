@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/joshuacerbito/joshuacerbito/main/assets/github-header.jpg "Joshua Cerbito")](https://cerbito.com/)
 
-# Hello, Internet! <img src="https://raw.githubusercontent.com/joshuacerbito/joshuacerbito/main/assets/wave.gif" width="30px">
+# Hello, Internet! <img src="https://raw.githubusercontent.com/joshuacerbito/joshuacerbito/main/assets/wave.gif" width="30px" height="30px">
 
 I'm Joshua Cerbito, a Web Developer and Designer. I'm from the Philippines, and currently a Technical Director and the Training Director at [Code and Theory](https://codeandtheory.com/).
 
