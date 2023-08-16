@@ -2,7 +2,7 @@
 
 # Hello, Internet! <img src="https://raw.githubusercontent.com/joshuacerbito/joshuacerbito/main/assets/wave.gif" width="30px" height="30px">
 
-I'm Joshua Cerbito, a Web Developer and Designer. I'm from the Philippines, and currently a Technical Director and the Training Director at [Code and Theory](https://codeandtheory.com/).
+I'm Joshua Cerbito, a Web Developer and Designer from the Philippines, currently the Director of Technology of [Ghost Sherpa](https://ghostsherpa.com/).
 
 ## 🛠️ My Favorite Development Tools
 
@@ -69,21 +69,21 @@ I'd like to think that my approach to development is "technology agnostic", so t
 
 ### 💻 /uses
 
-If you're intereseted in the software and hardware I use on a daily basis, [I've created a dedicated page for that on my site](https://cerbito.com/uses).
+If you're interested in the software and hardware I use on a daily basis, [I've created a dedicated page for that on my site](https://cerbito.com/uses).
 
 ## 📈 GitHub Stats for Nerds
 
-<p style="text-align: center;">
-
-  <a href="https://github.com/joshuacerbito"><img alt="Joshua's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joshuacerbito&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
+<div style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://github.com/joshuacerbito">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuacerbito&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" />
   </a>
   <a href="https://github.com/joshuacerbito">
-    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=joshuacerbito&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Martin's GitHub Stats" />
+    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=joshuacerbito&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Joshua's GitHub Stats" />
   </a>
-</p>
+  <a href="https://github.com/joshuacerbito">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=joshuacerbito&theme=darkhub&no-frame=true&title=MultiLanguage,LongTimeUser,Commits,Followers,Repositories" alt="Joshua's Github Trophies" />
+  </a>
+</div>
 
 ## 👨🏽‍🏫 Teaching & Speaking
 
