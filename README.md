@@ -1,51 +1,98 @@
 [![Header](https://raw.githubusercontent.com/joshuacerbito/joshuacerbito/main/assets/github-header.jpg "Joshua Cerbito")](https://cerbito.com/)
 
-# Hello, Internet! <img src="https://raw.githubusercontent.com/joshuacerbito/joshuacerbito/main/assets/wave.gif" width="30px" height="30px">
+# Joshua Cerbito <img src="https://raw.githubusercontent.com/joshuacerbito/joshuacerbito/main/assets/wave.gif" width="30px" height="30px">
 
-I'm Joshua Cerbito — I write code. I make photos. I play music.
+**Technical Architect / Principal Full-Stack Engineer.** Seventeen years building web
+products end to end, eight of them leading engineering teams as an associate technical
+director, technical director and director of technology. Based in Metro Manila, working
+with distributed teams since well before that was normal.
 
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joshuacerbito) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuacerbito) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cerbito) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JoshCerbito) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/joshuacerbito) 
+Right now I architect and hand-code the Project Go member platform, a web and mobile
+product in live service for 16 congregations across the United States. I own the whole
+stack: Express and MySQL services documented with Swagger, a Next.js front end, React
+Native and Capacitor mobile clients, and the DigitalOcean infrastructure underneath.
+Alongside it I build and run an 18-site WordPress network.
 
-## 🛠️ My Favorite Development Tools
+Before this, Director of Technology at Ghost Sherpa and a decade at Code and Theory,
+ending as Technical Director. Selected clients along the way: Doctors Without Borders,
+International Crisis Group, Relief International, Morton Salt, The Webby Awards, Giffords
+and Pagaya, plus the personal sites of Kobe Bryant, Usain Bolt and Usher.
 
-I'd like to think that my approach to development is "technology agnostic", so the list below might look a bit much, but these are the actual stuff I've used for the past year or so.
+**Open to fully remote roles**, working from Metro Manila at UTC+8.
 
-## 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+## 🌐 Find me
 
-<!-- ## 📊GitHub Stats -->
+[![Website](https://img.shields.io/badge/cerbito.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://cerbito.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cerbito)
+[![Email](https://img.shields.io/badge/josh@cerbito.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josh@cerbito.com)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/cerbito)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cerbito)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/joshuacerbito)
 
-<!-- <div align="center">
+## 📌 About what is public here
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuacerbito&theme=onedark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
-  ![](https://denvercoder1-github-readme-stats.vercel.app/api/?username=joshuacerbito&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=joshuacerbito&theme=onedark&hide_border=true)
-  
-</div> -->
+Most of what I build is client work or otherwise private, so this profile is a poor sample
+of it. What is public is mostly teaching material: starters, pattern collections and small
+hooks libraries written for developers I was training at the time.
 
-## 🏆GitHub Trophies
+That was a real part of the job. I founded and ran dotTheory, Code and Theory Philippines'
+technical training programme, built and owned its frontend track, and trained more than
+twenty developers through it. Six of them went on to become associate directors.
 
-<div align="center">
-  
-  ![](https://github-trophies.vercel.app/?username=joshuacerbito&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+For current work, [cerbito.com](https://cerbito.com) is the better place to look, and I am
+happy to walk through private code on request.
 
-</div>
+## 💻 What I actually work with
 
----
-[![](https://visitcount.itsvg.in/api?id=joshuacerbito&icon=0&color=0)](https://visitcount.itsvg.in)
+This list is deliberately shorter than it could be. It is what I would be comfortable being
+questioned on in an interview, not everything I have ever touched.
 
+**Languages**
 
-## 👨🏽‍🏫 Teaching & Speaking
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-I'm passionate about teaching and public speaking. Being able to help other people reach their goals is definitely a big win in my book, and being able to do that in my day job is one of the reasons why I'm still with the same organization for 8 years now.
+**Frontend**
 
-Before the pandemic, I used to speak at seminars and conferences both public and private; The subjects I talk about range from Web Development, Web Design, Graphic Design, Video Production, and Music Production, to Philosphy & Christian Apologetics.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-%23202020.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
-## 🎸 Music & Video
+**Backend and APIs**
 
-When I'm not coding or teaching, I play music (and usually take videos of me doing so). You can check out some of my music on [Youtube](https://www.youtube.com/user/joshuacerbito) and on [SoundCloud](https://soundcloud.com/joshuacerbito).
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 
-## ✍🏽 Blog & Writing
+**CMS and content**
 
-I also maintain a blog over at [Dev.to](https://dev.to/cerbito) (for tech-related write-ups) as well as on [Medium](https://medium.com/@cerbito) (for other, more personal stuff). I don't write as often as I'd like to anymore, but hopefully I've already gotten back to my habit of writing by the time you see this.
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white) ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+
+**Infrastructure and tooling**
+
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+Plus the practice around it: application architecture, engineering standards, code review,
+WCAG 2.1 AA accessibility, and technical training.
+
+## 🤖 Running an operation on agents
+
+I run the weekly content operation for an 18-site church website network with AI rather
+than by hand. Each site has its own MCP server wired into it, and I run a fleet of Claude
+agents against those connections daily, each agent driving a workflow I built for a
+specific task.
+
+The interesting part has not been the prompting. It has been the operations: what an agent
+is allowed to touch, which credentials it never holds, what is safe to run unattended and
+what is not, and why an agent should not get to choose its own fan-out. Most of that work
+lives in private repositories, which is why the contribution graph here looks busier than
+the repository list would suggest.
+
+## 👨🏽‍🏫 Teaching and speaking
+
+I like teaching and have spent a good part of my career doing it. I founded and ran
+dotTheory at Code and Theory, and most recently designed and delivered a sixteen-session
+web development curriculum for a multinational business services company. I have spoken at
+public and private seminars on web development, web design, graphic design, video
+production, music production, and philosophy and Christian apologetics.
+
+## 🎸 Away from the keyboard
+
+I shoot film, mostly street and documentary. I play guitar, mostly at church, and math
+rock, post rock and prog everywhere else. Some of it ends up on
+[SoundCloud](https://soundcloud.com/joshuacerbito).
